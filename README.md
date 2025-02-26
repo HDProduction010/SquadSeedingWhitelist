@@ -2,6 +2,8 @@
 
 This bot is designed to sync Patreon roles with a game server whitelist using Discord roles. It connects to a database, reads role information, and updates the whitelist accordingly. This ensures that Patreon supporters get their respective in-game benefits.
 
+# THIS IS NOT AN EASY CONFIG. Should you have issues reach out to me on discord and I will help setup, https://discord.gg/UPrgdaETTt
+
 ## Features
 - Sync Patreon roles to Discord and whitelist them in a game server
 - Assign Steam64 IDs to users automatically
